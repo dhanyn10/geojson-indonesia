@@ -255,6 +255,23 @@
           -0.5005582075988622
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "tanjung selor",
+        "provinsi": "kalimantan utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.3566436767578,
+          2.835717515809547
+        ]
+      }
     }
   ]
 }
