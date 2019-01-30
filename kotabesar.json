@@ -204,6 +204,23 @@
           -0.02265930116714652
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "banjarmasin",
+        "provinsi": "kalimantan selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.59152221679688,
+          -3.319103064657687
+        ]
+      }
     }
   ]
 }
