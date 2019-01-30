@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "surabaya"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +19,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "banda aceh"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "yogyakarta"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -42,6 +57,22 @@
         "coordinates": [
           123.06335449218749,
           0.5376355426179759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "denpasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.22014617919922,
+          -8.65298404122597
         ]
       }
     }
