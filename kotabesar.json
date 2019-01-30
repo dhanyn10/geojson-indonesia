@@ -7,23 +7,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "kota": "surabaya"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.73895263671874,
-          -7.246684494014693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "kota": "banda aceh"
+        "kota": "banda aceh",
+        "provinsi": "aceh"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +24,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "kota": "yogyakarta"
+        "kota": "yogyakarta",
+        "provinsi": "DI yogyakarta"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +37,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "gorontalo",
+        "provinsi": "gorontalo"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -66,13 +58,133 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "kota": "denpasar"
+        "kota": "denpasar",
+        "provinsi": "bali"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           115.22014617919922,
           -8.65298404122597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "serang",
+        "provinsi": "banten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.15161895751953,
+          -6.117342277802711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "bengkulu",
+        "provinsi": "bengkulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.26211547851562,
+          -3.7923177191212707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "jakarta pusat",
+        "provinsi": "DKI jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82762145996094,
+          -6.175883636877249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "jambi",
+        "provinsi": "jambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58047485351562,
+          -1.6147764249054963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "bandung",
+        "provinsi": "jawa barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055908203125,
+          -6.9359696299560705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "semarang",
+        "provinsi": "jawa tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.42633056640625,
+          -6.993222257973445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "surabaya",
+        "provinsi": "jawa timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73826599121092,
+          -7.245662751722843
         ]
       }
     }
