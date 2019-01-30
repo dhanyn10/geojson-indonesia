@@ -221,6 +221,23 @@
           -3.319103064657687
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "palangka raya",
+        "provinsi": "kalimantan tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92204284667969,
+          -2.2118222650497237
+        ]
+      }
     }
   ]
 }
