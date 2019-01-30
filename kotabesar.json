@@ -187,6 +187,23 @@
           -7.245662751722843
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "pontianak",
+        "provinsi": "kalimantan barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.34246063232422,
+          -0.02265930116714652
+        ]
+      }
     }
   ]
 }
