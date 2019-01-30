@@ -29,30 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.22014617919922,
-          -8.65298404122597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.1553955078125,
-          -6.117342277802711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.26280212402344,
-          -3.7923177191212707
+          110.36865234374999,
+          -7.800799705220015
         ]
       }
     }
