@@ -238,6 +238,23 @@
           -2.2118222650497237
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "samarinda",
+        "provinsi": "kalimantan timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.14035034179686,
+          -0.5005582075988622
+        ]
+      }
     }
   ]
 }
