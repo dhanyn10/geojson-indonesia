@@ -357,6 +357,23 @@
           0.7368361494352578
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "mataram",
+        "provinsi": "nusa tenggara barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.10746383666992,
+          -8.583906780856733
+        ]
+      }
     }
   ]
 }
