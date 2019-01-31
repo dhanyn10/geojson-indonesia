@@ -323,6 +323,23 @@
           -5.4461489196895245
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "ambon",
+        "provinsi": "maluku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.1797218322754,
+          -3.696392562869563
+        ]
+      }
     }
   ]
 }
