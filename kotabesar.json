@@ -374,6 +374,23 @@
           -8.583906780856733
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "kupang",
+        "provinsi": "nusa tenggara timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.60237121582031,
+          -10.1638982146566
+        ]
+      }
     }
   ]
 }
