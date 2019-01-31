@@ -306,6 +306,23 @@
           0.923498219069007
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "bandar lampung",
+        "provinsi": "lampung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2629280090332,
+          -5.4461489196895245
+        ]
+      }
     }
   ]
 }
