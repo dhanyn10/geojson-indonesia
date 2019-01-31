@@ -425,6 +425,23 @@
           -0.8575882160949275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "pekanbaru",
+        "provinsi": "riau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44560813903809,
+          0.537120581137482
+        ]
+      }
     }
   ]
 }
