@@ -340,6 +340,23 @@
           -3.696392562869563
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "sofifi",
+        "provinsi": "maluku utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.56766319274902,
+          0.7368361494352578
+        ]
+      }
     }
   ]
 }
