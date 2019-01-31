@@ -289,6 +289,23 @@
           -2.121249857978668
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "tanjung pinang",
+        "provinsi": "kepulauan riau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.44873809814453,
+          0.923498219069007
+        ]
+      }
     }
   ]
 }
