@@ -391,6 +391,23 @@
           -10.1638982146566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "jayapura",
+        "provinsi": "papua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70387840270996,
+          -2.538898781350013
+        ]
+      }
     }
   ]
 }
