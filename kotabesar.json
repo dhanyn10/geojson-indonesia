@@ -408,6 +408,23 @@
           -2.538898781350013
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "manokwari",
+        "provinsi": "papua barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.07920837402344,
+          -0.8575882160949275
+        ]
+      }
     }
   ]
 }
