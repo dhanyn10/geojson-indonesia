@@ -272,6 +272,23 @@
           2.835717515809547
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "kota": "pangkal pinang",
+        "provinsi": "bangka belitung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.11316680908203,
+          -2.121249857978668
+        ]
+      }
     }
   ]
 }
